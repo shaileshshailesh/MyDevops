@@ -1,0 +1,3 @@
+I, [2016-12-30T19:54:04.889414 #25232]  INFO -- Kitchen: -----> Starting Kitchen (v1.14.2)
+I, [2016-12-30T19:55:17.586420 #25232]  INFO -- Kitchen: -----> Destroying <default-hashicorp-precise32>...
+I, [2016-12-30T19:55:18.105928 #25232]  INFO -- Kitchen: -----> Kitchen is finished. (1m13.19s)

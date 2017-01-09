@@ -1,0 +1,7 @@
+DEPENDENCIES
+  helloworlddk
+    path: .
+    metadata: true
+
+GRAPH
+  helloworlddk (0.1.0)
